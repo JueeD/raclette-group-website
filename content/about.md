@@ -46,7 +46,7 @@ Name: Xin Xu
 
 Affliation: Korea Advanced Institute of Science & Technology
 
-Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
+Github: <a href="https://github.com/Sarah-Xu-08">Sarah-Xu-08</a>
 
 </div>
 
@@ -83,7 +83,7 @@ Name: Vitto Resnick
 
 Affliation: UC Berkeley 
 
-Github:
+Github: <a href="https://github.com/chemclown21">chemclown21</a>
 
 </div>
 
@@ -116,7 +116,7 @@ Name: Hobart
 
 Affliation: Chinese Institute for Brain Research, Beijing
 
-Github:
+Github:<a href="https://github.com/Hobart10">Hobart10</a>
 
 </div>
 The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at Northeastern University.
@@ -135,7 +135,7 @@ Name: Juee Dhar
 
 Affliation: Indian Institute of Science Educations and Research, Kolkata
 
-Github:  
+Github: <a href="https://github.com/JueeD">JueeD</a>
 
 </div>
 
