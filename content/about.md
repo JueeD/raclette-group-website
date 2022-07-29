@@ -93,7 +93,7 @@ Github: <a href="https://github.com/Hobart10">Hobart10</a>
 
 
 </div>
-The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at Northeastern University.
+The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at CIBR, Beijing and had obtained his bachelor’s degree in Analytic Chemistry at Northeastern University.
 </div>
   
 </div>
