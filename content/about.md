@@ -54,7 +54,23 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 
 </div>
 </div>
+<div>
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdnfyo6aj20u014075c.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Name: Juee Dhar
 
+Affliation: Indian Institute of Science Educations and Research, Kolkata
+
+Github: <a href="https://github.com/JueeD">JueeD</a>
+
+</div>
+
+I am a rising fourth year BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign.
+
+</div>
 
 
 <div>
@@ -125,23 +141,7 @@ The diligience and dedication that Hobart projects towards his work is second to
 
 
 </div>
-<div>
-<div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4mdnfyo6aj20u014075c.jpg"  width=150 style="float: left; margin-right: 20px" >
-</div>
-<div>
-<div style="line-height: 80%; padding-top:25px">
-Name: Juee Dhar
 
-Affliation: Indian Institute of Science Educations and Research, Kolkata
-
-Github: <a href="https://github.com/JueeD">JueeD</a>
-
-</div>
-
-I am a rising fourth year BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign.
-
-</div>
 
 ## TA & Mentor
 
