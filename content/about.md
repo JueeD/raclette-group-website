@@ -46,7 +46,7 @@ Name: Xin Xu
 
 Affliation: KAIST
 
-Github:
+Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 
 </div>
 
@@ -158,7 +158,7 @@ Name: Hobart
 
 Affliation: KAIST
 
-Github:
+Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 
 
 </div>
