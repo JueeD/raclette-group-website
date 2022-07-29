@@ -163,7 +163,7 @@ Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
 
 <div>
-<img src="[https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg](https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyowxikej20pi0piq51.jpg)"  width=150 style="float: left; margin-right: 20px" >
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyowxikej20pi0piq51.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
