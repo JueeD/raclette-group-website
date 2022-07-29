@@ -114,7 +114,7 @@ A quiet worker, Kai is a 3rd year undergraduate at Northwest A&F University, Chi
 </div>
 
 
-## TA & Mentor
+## TAs & Mentor
 
 <div style = "margin-top:20px">
 
