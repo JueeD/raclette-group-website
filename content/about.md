@@ -152,7 +152,7 @@ I am a rising fourth year BS-MS student at IISER Kolkata, India amd I am  majori
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Run Wang
+Pod TA: Run Wang
 
 Affliation: ETH Zurich
 
@@ -182,9 +182,9 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Hobart
+Mentor : Sai Sun
 
-Affliation: KAIST
+Affliation: Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
 
 Github:
 
