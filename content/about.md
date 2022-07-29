@@ -61,7 +61,7 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Xin Xu
+Name: Juee Dhar
 
 Affliation: KAIST
 
@@ -78,7 +78,7 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Xin Xu
+Name: Doris Zhang 
 
 Affliation: KAIST
 
@@ -136,8 +136,7 @@ Affliation: KAIST
 Github:
 
 </div>
-
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+The diligience and dedication that Hobart projects towards his work is second to none. 
 
 </div>
 
