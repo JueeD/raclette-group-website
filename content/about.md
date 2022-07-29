@@ -106,72 +106,39 @@ Github: <a href="https://github.com/chemclown21">chemclown21</a>
 His pertinent questions and follow-ups made us think more critically about the project that we embarked on. He is a rising third year undergraduate student at UC Berkeley, majoring in Chemical Biology (with a Concentration in Computational Chemistry), Psychology, and Molecular & Cellular Biology (with an emphasis on Neurobiology).
 </div>
 
+
+
 <div>
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
-  
-  
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Kai Fu
+Mentor : Hobart
+
+Affliation: Chinese Institute for Brain Research, Beijing
+
+Github: <a href="https://github.com/Hobart10">Hobart10</a>
+
+
+</div>
+The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at Northeastern University.
+</div>
+  
+</div>
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Mentor : Kai Fu
 
 Affliation: Northwest A&F University, China
 
 Github:
 
-</div>
 
+</div>
 A quiet worker, Kai is a 3rd year undergraduate at Northwest A&F University, China, majoring in biotechnology. 
-
-</div>
-
-<div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyoj4fhoj20lr0pj75f.jpg"  width=150 style="float: left; margin-right: 20px" >
-</div>
-<div>
-<div style="line-height: 80%; padding-top:25px">
-Name: Hobart
-
-Affliation: Chinese Institute for Brain Research, Beijing
-
-Github:<a href="https://github.com/Hobart10">Hobart10</a>
-
-</div>
-The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at Northeastern University.
-
-</div>
-
-<div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
-</div>
-<div>
-<div style="line-height: 80%; padding-top:25px">
-Mentor : Sai Sun
-
-Affliation: Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
-
-Github:
-
-
-</div>
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
-</div>
-  
-</div>
-<div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
-</div>
-<div>
-<div style="line-height: 80%; padding-top:25px">
-Mentor : Sai Sun
-
-Affliation: Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
-
-Github:
-
-
-</div>
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
 </div>
 
 
