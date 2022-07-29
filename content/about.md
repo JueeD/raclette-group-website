@@ -148,13 +148,13 @@ I am a rising fourth year BS-MS student at IISER Kolkata, India amd I am  majori
 <div style = "margin-top:20px">
 
 <div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4ldid3b1ej20k90k9q3a.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Hobart
+Name: Run Wang
 
-Affliation: KAIST
+Affliation: ETH Zurich
 
 Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 
@@ -163,13 +163,13 @@ Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
 
 <div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+<img src="[https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg](https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyowxikej20pi0piq51.jpg)"  width=150 style="float: left; margin-right: 20px" >
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Hobart
+Project TA: Vinsea Singh
 
-Affliation: KAIST
+Affliation: National Brain Research Centre, India
 
 Github:
 
