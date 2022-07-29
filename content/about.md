@@ -1,10 +1,10 @@
 
  
  ---
-title: Team
+title: The Team
 ---
 
-## Group Member
+## Group Members
 <div style = "margin-left:40px; margin-top:20px">
 
 <div>
