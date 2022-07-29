@@ -109,6 +109,8 @@ His pertinent questions and follow-ups made us think more critically about the p
 <div>
 <img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
+  
+  
 <div>
 <div style="line-height: 80%; padding-top:25px">
 Name: Kai Fu
@@ -140,6 +142,21 @@ The diligience and dedication that Hobart projects towards his work is second to
 </div>
 
 
+</div>
+<div>
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+</div>
+<div>
+<div style="line-height: 80%; padding-top:25px">
+Mentor : Sai Sun
+
+Affliation: Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
+
+Github:
+
+
+</div>
+Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
 </div>
 
 
