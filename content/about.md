@@ -81,7 +81,7 @@ His pertinent questions and follow-ups made us think more critically about the p
 
 
 <div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyoj4fhoj20lr0pj75f.jpg"  width=150 style="float: left; margin-right: 20px" >
+<img src="https://cdn.discordapp.com/attachments/1002414058357665932/1002563188077899776/WeChat_Image_20220729085349-.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
