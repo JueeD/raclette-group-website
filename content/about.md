@@ -44,7 +44,7 @@ title: Team
 <div style="line-height: 80%; padding-top:25px">
 Name: Xin Xu
 
-Affliation: KAIST
+Affliation: Korea Advanced Institute of Science & Technology
 
 Github: <a href="https://github.com/SamanthaWangdl">Samanthawangdl</a>
 
@@ -63,13 +63,13 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 <div style="line-height: 80%; padding-top:25px">
 Name: Juee Dhar
 
-Affliation: KAIST
+Affliation: Indian Institute of Science Educations and Research, Kolkata
 
-Github:
+Github:  
 
 </div>
 
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+I am a rising fourth year BS-MS student at IISER Kolkata, India amd I am  majoring in biology and minoring in physics. With no background in computational neuroscience whatsoever, I am so grateful for this team and the TAs that I would consider computational neuroscience, not all so foreign.
 
 </div>
 
@@ -80,13 +80,13 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 <div style="line-height: 80%; padding-top:25px">
 Name: Doris Zhang 
 
-Affliation: KAIST
+Affliation: New York University Shanghai
 
 Github:
 
 </div>
 
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+ Her warmth and approachability makes for a great team player. She is a rising sophomore at New York University Shanghai, with an intended major in Social Science and a minor in Neuroscience.
 
 </div>
 
@@ -95,16 +95,15 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Xin Xu
+Name: Vitto Resnick
 
-Affliation: KAIST
+Affliation: UC Berkeley 
 
 Github:
 
 </div>
 
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
-
+His pertinent questions and follow-ups made us think more critically about the project that we embarked on. He is a rising third year undergraduate student at UC Berkeley, majoring in Chemical Biology (with a Concentration in Computational Chemistry), Psychology, and Molecular & Cellular Biology (with an emphasis on Neurobiology).
 </div>
 
 <div>
@@ -112,31 +111,31 @@ Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin 
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
-Name: Xin Xu
+Name: Kai Fu
 
-Affliation: KAIST
+Affliation: Northwest A&F University, China
 
 Github:
 
 </div>
 
-Her bubbly and chatty energy along with a work ethic that sure is enviable, Xin managed to keep the spirits high and the workflow churning. She is currently enrolled in the Master’s Program in Bio and Brain Engineering at KAIST. However, she completed her Bachelor’s Degree in Mechanical Engineering at BIT.
+A quiet worker, Kai is a 3rd year undergraduate at Northwest A&F University, China, majoring in biotechnology. 
 
 </div>
 
 <div>
-<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nu9ejmonj20ce0g73ys.jpg"  width=150 style="float: left; margin-right: 20px" >
+<img src="https://tva1.sinaimg.cn/large/e6c9d24egy1h4nyoj4fhoj20lr0pj75f.jpg"  width=150 style="float: left; margin-right: 20px" >
 </div>
 <div>
 <div style="line-height: 80%; padding-top:25px">
 Name: Hobart
 
-Affliation: KAIST
+Affliation: Chinese Institute for Brain Research, Beijing
 
 Github:
 
 </div>
-The diligience and dedication that Hobart projects towards his work is second to none. 
+The diligience and dedication that Hobart projects towards his work is second to none. He is a Neurobiology master student at Chinese Institute for Brain Research, Beijing (CIBR). He obtained my bachelor’s degree in Analytic Chemistry at Northeastern University.
 
 </div>
 
