@@ -154,9 +154,8 @@ Github:
 <div style="line-height: 80%; padding-top:25px">
 Mentor : Sai Sun
 
-Affliation: Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
+Affliation: Associate Professor at Frontier Research Institute for Interdisciplinary Sciences,Tohoku University
 
-Github:
 
 
 </div>
