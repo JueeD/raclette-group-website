@@ -19,7 +19,8 @@ menu:
     - name: Team
       url: "about/"
       weight: 2
-
+    - name: Github
+      url: "https://github.com/Sarah-Xu-08/raclette-group-1"
 
 
 params:
