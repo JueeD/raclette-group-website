@@ -106,7 +106,7 @@ Mentor : Kai Fu
 
 Affliation: Northwest A&F University, China
 
-Github:
+Github:  <a href="https://github.com/FLDfukai">FLDfukai</a>
 
 
 </div>
@@ -141,7 +141,7 @@ Project TA: Vinsea Singh
 
 Affliation: National Brain Research Centre, India
 
-Github:
+Github: <a href="https://github.com/VinseaSingh">VinseaSingh</a>
 
 
 </div>
